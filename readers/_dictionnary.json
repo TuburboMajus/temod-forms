@@ -1,0 +1,15 @@
+{
+	"fr":{
+		"0x00":"Tentative d'annuler une valeure non nullifiable",
+		"0x01":"Valeure de type erroné",
+		"0x02":"Impossible de transformer cette valeur",
+		"0x11":"Chaine de caractères trop courte",
+		"0x10":"Chaine de caractères trop longue",
+		"0x12":"Chaine de caractères ne doit pas être vide",
+		"0x13":"Format invalide de la chaine de caractères",
+		"0x20":"Nombre dépassant la limite suppérieure",
+		"0x21":"Nombre inférrieur au minimum autorisé",
+		"0x30":"Date postérrieure à la date limite",
+		"0x31":"Date antérrieure à la date minimale"
+	}
+}
